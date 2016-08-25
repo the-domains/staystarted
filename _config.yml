@@ -1,0 +1,14 @@
+layout_spectrum: 0.7317612557671964
+typography_spectrum: 0.7225291836075485
+color:
+  brandStrength: 0.2174666386563331
+  lightness: 0.8764194205868989
+  saturation: 0.8956031356938183
+  rhythmicContrast: 0.897660578135401
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: StayStarted
